@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 ![image](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
 ![image](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
 
-
+[![Omkar Agnihotri's stats](https://github-readme-stats.vercel.app/api?username=OmkarAgnihotri&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true)](https://github.com/OmkarAgnihotri/github-readme-stats)
 
 
 
