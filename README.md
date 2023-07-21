@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Omkar Agnihotri, Final Year Computer Science student from Nirma University, Ahmedabad.
+I'm Omkar Agnihotri, Software Engineer at D.E. Shaw.
 
 <!--
 **OmkarAgnihotri/OmkarAgnihotri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
